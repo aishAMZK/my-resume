@@ -1,7 +1,7 @@
 h1{
     
     margin-bottom: 10%;
-    margin-top:5%;
+    margin-top: 5%;
     
 }
 
@@ -10,7 +10,7 @@ h1{
 h5{
     font-weight:600;
     margin-top:2px;
-   background-color:darksalmon;
+    background-color:darksalmon;
    
 }
 h6{
@@ -20,11 +20,12 @@ h6{
 
 
 #frst{
-    
+    max-width: 39%;
     margin-top:5%;
     background-color:cornsilk;
 }
 #sec{
     
     margin-top:5%;
+    margin-left: 10%;
 }
